@@ -60,6 +60,7 @@ CSV_Upload/
 ## Screenshots
 <img width="1078" alt="Screenshot 2023-08-10 135851" src="https://github.com/subhanshu12/CSV_upload/assets/101986633/22498ccf-0af2-4e95-99dc-6399b0dbb3c5">
 <img width="1077" alt="Screenshot 2023-08-10 135818" src="https://github.com/subhanshu12/CSV_upload/assets/101986633/161a8bc9-6f4f-4363-8f3a-09888312ee1d">
+<img width="1076" alt="image" src="https://github.com/subhanshu12/CSV_upload/assets/101986633/79e8a713-d1a1-4135-859d-32152bcc40de">
 
 
 
