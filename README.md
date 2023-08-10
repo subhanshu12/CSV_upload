@@ -58,9 +58,11 @@ CSV_Upload/
 
 ```
 ## Screenshots
-<img width="960" alt="Screenshot 2023-05-02 014605" src="https://user-images.githubusercontent.com/90390855/235523632-0b70279d-08a4-46dc-aa73-ac6ce6f1c147.png">
+<img width="1078" alt="Screenshot 2023-08-10 135851" src="https://github.com/subhanshu12/CSV_upload/assets/101986633/22498ccf-0af2-4e95-99dc-6399b0dbb3c5">
+<img width="1077" alt="Screenshot 2023-08-10 135818" src="https://github.com/subhanshu12/CSV_upload/assets/101986633/161a8bc9-6f4f-4363-8f3a-09888312ee1d">
 
-<img width="960" alt="Screenshot 2023-05-02 014704" src="https://user-images.githubusercontent.com/90390855/235523713-c6153e16-b915-4e2b-9f98-8d958cda3376.png">
+
+
 
 By - Subhanshu Tripathi
 
